@@ -19,9 +19,7 @@ public class MedianArrays{
 			else if(med1 > med2) return (double)(nums1[len1-1]+nums2[0])/2;
 			else return (double)(nums2[len2-1]+nums1[0])/2;
     }
-	double medianarray(int[] a, int[] b, int astart, int aend, int bstart, int bend){
-		
-	}
+
 	
 	public static void main(String[] args){
 		int[] nums1 ={1,2,3,4,5};
