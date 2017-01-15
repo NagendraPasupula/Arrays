@@ -1,4 +1,5 @@
-/** Power set of a string or all possible sub sequences of string **/
+/**@Author: Venkata Nagendra Kumar Pasupula 
+Power set of a string or all possible sub sequences of string **/
 
 import java.awt.List;
 import java.util.ArrayList;
